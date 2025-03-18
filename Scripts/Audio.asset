@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b84a14b1d8b7df3439b54b7dd197e790, type: 3}
+  m_Name: Audio
+  m_EditorClassIdentifier: 
+  gameOverSfx: {fileID: 8300000, guid: 036c15e229489d249abf8f09716a77bd, type: 3}
+  pointSfx: {fileID: 8300000, guid: 9f48e4ffc08d3cc45ad493ea36d31798, type: 3}
+  clickSfx: {fileID: 8300000, guid: 7cde55d869709cb429bbfbeedd6fd03c, type: 3}
